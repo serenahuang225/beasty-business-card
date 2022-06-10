@@ -6,7 +6,7 @@ const Info = () => {
         <div>
             <h1 className="info-h1">Serena S. Huang</h1>
             <h2>Awesome Computer Scientist</h2>
-            <a className="info-p">serenashuang.website</a>
+            <p className="info-p">serenashuang.website</p>
             <div className='buttons'>
                 <Email />
                 <Linkedin />
